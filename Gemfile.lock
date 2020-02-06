@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.2)
+    configurations (2.2.2)
+    japi (1.1.2)
+      configurations (~> 2.2.0)
+    method_source (0.9.2)
+    pry (0.12.2)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  japi
+  pry
+
+BUNDLED WITH
+   1.17.2
