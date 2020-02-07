@@ -18,7 +18,7 @@ To run it in the terminal:
 ruby mvp.rb
 ```
 
-[lib/overachiever.rb](lib/overachiever.rb) contains the code that runs the game itself. I know this wasn't necessary but I couldn't stop myself.
+[overachiever.rb](overachiever.rb) and [lib/game_flow.rb](lib/game_flow.rb) contain the code that runs the game itself. I know this wasn't necessary but I couldn't stop myself.
 
 To play the game in the terminal run:
 ```bash
